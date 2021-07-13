@@ -11,6 +11,16 @@ body{
 
 
 }
+
+
+footer{
+    background-color:black;
+    margin: 10px;
+    padding: 15px;
+}
+
+
+
 header{
 padding: 30px;
 text-align:center
@@ -50,11 +60,13 @@ margin:left
 #lower {
     display: flex;
     justify-content: center;
-    margin: 30px;
+    margin: 15px;
     }
 
     #lower section{
-        width: 45%;
+        width: 34%;
+        padding: 42px;
+
     }
     /* i got help from boshra jaber  */
 
@@ -62,7 +74,7 @@ margin:left
 
         display: flex;
         justify-content: center;
-       margin: 10px;
+       margin: 30px;
     
         
     }
