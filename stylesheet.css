@@ -1,0 +1,78 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-size: medium;
+    font-family: Arial;
+    padding:10px;
+    background-color:whitesmoke;
+    margin: 20px;
+
+
+}
+header{
+padding: 30px;
+text-align:center
+
+}
+
+nav{
+    background-color:gray;
+    margin: 10;
+
+    
+}
+
+nav ul li {
+padding: 20px;
+    display: inline-block;
+}
+nav ul li a{
+    color: blanchedalmond;
+    text-decoration: none;
+font-weight: bolder;
+}
+
+
+
+
+    
+/* #lower img {
+    
+}
+#lower p {
+
+margin:left
+
+} */
+
+#lower {
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+    }
+
+    #lower section{
+        width: 45%;
+    }
+    /* i got help from boshra jaber  */
+
+    #middle{
+
+        display: flex;
+        justify-content: center;
+       margin: 10px;
+    
+        
+    }
+
+
+
+    #middle img{
+        padding: 15px;
+    }
+    #top{
+
+        margin: 30px;
+    }
